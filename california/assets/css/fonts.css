@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Mat;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Lato"),
+         url(../fonts/Montserrat-Regular.woff2) format("woff2");
+    font-display: swap;
+}
